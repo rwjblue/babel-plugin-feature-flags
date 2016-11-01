@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/ember-cli/babel-plugin-feature-flags",
   "devDependencies": {
-    "babel-core": "^6.9.1",
+    "babel-core": "^6.18.1",
     "mocha": "^3.0.0"
   }
 }
